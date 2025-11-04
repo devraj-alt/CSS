@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-one,
+.container-two,
+.container-three,
+.container-four,
+.container-five,
+.container-six {
+    margin: 2px;
+    border: 2px dashed maroon;
+    font-size: 2rem;
+    padding: 2px;
+    width: auto;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
