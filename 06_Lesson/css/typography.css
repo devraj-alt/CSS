@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+body{
+    padding: 10%;
+    font-size: 2rem;
+}
+
+/*
+Font Properties
+1. font-family – sets the typeface.
+2. font-size – sets the size of the text.
+3. font-weight – controls the thickness (boldness).
+4. font-style – sets normal, italic, or oblique text.
+5. font-variant – enables small caps or stylistic variants.
+6. font – shorthand for multiple font properties.
+
+Spacing & Line Layout
+7. line-height – controls space between lines.
+8. letter-spacing – adjusts space between letters.
+9. word-spacing – adjusts space between words.
+10. text-indent – indents the first line of text.
+
+Text Alignment & Decoration
+11. text-align – aligns text (left, right, center, justify).
+12. text-decoration – adds underline, overline, or line-through.
+13. text-transform – changes case (uppercase, lowercase, capitalize).
+14. text-shadow – adds shadow effects to text.
+
+Web Fonts
+15. @font-face – allows custom fonts.
+16. font-display – controls how web fonts render.
+17. src – specifies font file location (used in @font-face).
+
+Advanced Typography
+18. hyphens – controls automatic hyphenation.
+19. white-space – manages spaces and line breaks.
+20. overflow-wrap / word-wrap – controls word breaking.
+21. word-break – breaks long words if needed.
+22. text-overflow – adds ellipsis (…) for clipped text.
+23. direction – sets text direction (ltr or rtl).
+24. unicode-bidi – controls bidirectional text rendering.
+*/
+
+p {
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+}
+
