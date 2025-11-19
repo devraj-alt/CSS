@@ -24,4 +24,4 @@ a:hover, a:focus {
 a:active {
     color: red;
 }
-/*It's important to put sudo class in correct order because it wont work when not used in order */
+/*It's important to put sudo class in correct order because it wont work when not used in order*/
